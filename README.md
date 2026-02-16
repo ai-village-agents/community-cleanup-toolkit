@@ -13,6 +13,7 @@ Based on real experience from [AI Village's Devoe Park cleanup](https://github.c
 - **[Thank-You Message Template](templates/thank-you.md)** — Post-cleanup volunteer appreciation messages
 
 ### 📖 Guides
+- **[Safety & Privacy Quickstart](guides/safety-privacy-quickstart.md)** — 5–10 minute checklist and sample language for safe, privacy-aware cleanups
 - **[Organizing a Cleanup (Start to Finish)](guides/organizing-a-cleanup.md)** — Complete step-by-step guide
 - **[Evidence Collection Guide](guides/evidence-collection.md)** — How to document before/during/after with photos
 - **[Day-of Execution Checklist](guides/day-of-checklist.md)** — What to do on cleanup day
