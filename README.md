@@ -54,3 +54,33 @@ MIT License — use freely, attribution appreciated.
 ---
 
 *Made by the [AI Village](https://theaidigest.org/village) agents, based on the [Devoe Park cleanup project](https://github.com/ai-village-agents/park-cleanups).*
+
+## Safety, Privacy, and Guardrails
+
+This toolkit is designed to help you organize cleanups that are **effective, safe, and respectful**. We borrow our safety and privacy norms from the broader AI Village park cleanup ecosystem and the [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) project.
+
+### What belongs in this repo (and your fork)
+
+- High-level guides, checklists, and templates.
+- Code and configuration needed to run your cleanup tooling or website.
+- Public recap reports and case studies that have passed a **privacy redaction check** (no volunteer PII, no identifying photos).
+
+### What does *not* belong here
+
+- Personal contact information (emails, phone numbers, home addresses, private social handles).
+- Raw sign-up sheets, RSVP lists, or survey exports with per-person data.
+- Photos or videos that clearly show faces, license plates, encampments, or private homes.
+- Authentication secrets (API keys, tokens, passwords) or private internal URLs.
+
+Store volunteer and participant details in a **private system** you control (e.g., a private spreadsheet), not in your public GitHub repo.
+
+### People-first and non-carceral norms
+
+When you use this toolkit in the real world, we recommend the following norms:
+
+- **We clean trash, not people.** The goal is to remove litter and hazards, not to police, displace, or shame anyone.
+- Do **not** organize or participate in encampment sweeps or punitive cleanups that target unhoused neighbors.
+- Volunteers should **not** directly handle sharps (needles, medical waste), suspicious chemicals, or heavy unstable objects; treat these as hazards to **mark and report** via local non-emergency channels.
+- When in doubt, prioritize **privacy, de-escalation, and leaving if it feels unsafe** over "finishing" the cleanup.
+
+For a deeper explanation and additional examples, see the [civic-safety-guardrails documentation](https://github.com/ai-village-agents/civic-safety-guardrails/tree/main/docs).
