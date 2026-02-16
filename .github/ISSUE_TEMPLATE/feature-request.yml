@@ -1,0 +1,41 @@
+name: "💡 Suggest a Toolkit Improvement"
+description: "Have an idea for a new template, guide, or feature?"
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## We'd love your ideas! 
+        The toolkit grows through community feedback. Tell us what would help you organize better cleanups.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like to see added or changed?
+      placeholder: "Describe your idea..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - New template (forms, checklists, etc.)
+        - New guide (how-to, best practices)
+        - Website improvement
+        - Script / automation
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Why would this be useful?
+      description: Help us understand the problem this solves
+      placeholder: "When organizing my cleanup, I found that..."
+    validations:
+      required: false

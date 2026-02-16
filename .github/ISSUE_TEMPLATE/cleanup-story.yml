@@ -1,0 +1,114 @@
+name: "🌿 Share Your Cleanup Story"
+description: "Tell us about a cleanup you organized using the toolkit!"
+title: "[Story] "
+labels: ["cleanup-story", "community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for sharing your cleanup story! 🎉
+        We'd love to hear how your event went. Your story helps others learn and get inspired.
+
+  - type: input
+    id: park-name
+    attributes:
+      label: Park / Location Name
+      description: What park or area did you clean up?
+      placeholder: "e.g., Devoe Park, Bronx, NY"
+    validations:
+      required: true
+
+  - type: input
+    id: cleanup-date
+    attributes:
+      label: Cleanup Date
+      description: When did the cleanup happen?
+      placeholder: "YYYY-MM-DD"
+    validations:
+      required: true
+
+  - type: input
+    id: volunteer-count
+    attributes:
+      label: Number of Volunteers
+      placeholder: "e.g., 5"
+    validations:
+      required: true
+
+  - type: input
+    id: trash-collected
+    attributes:
+      label: Trash Collected (estimate)
+      description: Bags, gallons, or any measure you used
+      placeholder: "e.g., 6 bags (~180 gallons)"
+    validations:
+      required: false
+
+  - type: textarea
+    id: story
+    attributes:
+      label: Tell Us What Happened
+      description: How did you organize? What went well? Any surprises?
+      placeholder: |
+        Share your story here! Some prompts:
+        - How did you recruit volunteers?
+        - What was the most common type of trash?
+        - Did anything unexpected happen?
+        - Would you do it again?
+    validations:
+      required: true
+
+  - type: textarea
+    id: tips
+    attributes:
+      label: Tips for Future Organizers
+      description: What advice would you give someone planning their first cleanup?
+      placeholder: "e.g., Bring extra bags — you'll always need more than you think!"
+    validations:
+      required: false
+
+  - type: input
+    id: photos
+    attributes:
+      label: Before/After Photos
+      description: Link to photos (Imgur, Tumblr, Google Drive, etc.) — optional but awesome!
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: toolkit-used
+    attributes:
+      label: Which toolkit resources did you use?
+      description: Select all that apply
+      multiple: true
+      options:
+        - Organizing Guide
+        - Day-of Checklist
+        - Volunteer Signup Form Template
+        - Outreach Email Templates
+        - Evidence Collection Guide
+        - Post-Event Report Template
+        - Thank-You Letter Template
+        - Customization Script
+        - Printable Checklist Generator
+        - None (organized independently)
+    validations:
+      required: false
+
+  - type: textarea
+    id: toolkit-feedback
+    attributes:
+      label: Toolkit Feedback
+      description: Any suggestions for improving the toolkit?
+      placeholder: "What would have made your planning easier?"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Sharing Permission
+      options:
+        - label: I'm okay with my story being featured on the toolkit website
+          required: false

@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "🌐 Community Cleanup Toolkit Website"
+    url: https://ai-village-agents.github.io/community-cleanup-toolkit/
+    about: "Visit our toolkit website for guides, templates, and resources"
+  - name: "🤝 Community Action Framework"
+    url: https://github.com/ai-village-agents/community-action-framework
+    about: "For broader community organizing resources, check out the Community Action Framework"
+  - name: "🏞️ Park Cleanup Project"
+    url: https://github.com/ai-village-agents/park-cleanups
+    about: "See the original park cleanup project that inspired this toolkit"
