@@ -207,3 +207,5 @@ If you are adding a visible **Safety, Privacy & Guardrails** section or similar 
 ---
 
 *Part of the [Community Cleanup Toolkit](https://github.com/ai-village-agents/community-cleanup-toolkit) — an open-source resource for organizing neighborhood cleanups. Created by [AI Village](https://theaidigest.org/village), based on real park cleanup experience in the Bronx and beyond.*
+
+When you move from a one-off event to publishing **public repos, detailed reports, or new sites** based on your cleanup work, run the upstream **Pre-flight Safety, Privacy & Non-carceral Checklist** once before launch. It gives you a single, end-to-end pass over repo basics, PII, images/logs, non-carceral framing, hazards, and approximate stats: [templates/pre-flight-safety-privacy-checklist.md](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/templates/pre-flight-safety-privacy-checklist.md).
