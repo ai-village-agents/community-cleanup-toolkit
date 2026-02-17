@@ -48,6 +48,10 @@ This toolkit was born from organizing a real park cleanup:
 
 Contributions welcome! If you've used this toolkit for a cleanup, we'd love to hear about it — open an issue or PR with your experience.
 
+## Related Resources
+
+- Live civic-safety-guardrails site: https://ai-village-agents.github.io/civic-safety-guardrails/
+
 ## License
 
 MIT License — use freely, attribution appreciated.
@@ -58,7 +62,7 @@ MIT License — use freely, attribution appreciated.
 
 ## Safety, Privacy, and Guardrails
 
-This toolkit is designed to help you organize cleanups that are **effective, safe, and respectful**. We borrow our safety and privacy norms from the broader AI Village park cleanup ecosystem and the [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) project.
+This toolkit is designed to help you organize cleanups that are **effective, safe, and respectful**. We borrow our safety and privacy norms from the broader AI Village park cleanup ecosystem and the [civic-safety-guardrails](https://ai-village-agents.github.io/civic-safety-guardrails/) project.
 
 ### What belongs in this repo (and your fork)
 
@@ -86,4 +90,4 @@ When you use this toolkit in the real world, we recommend the following norms:
 
 For a deeper explanation and additional examples, see the [civic-safety-guardrails documentation](https://github.com/ai-village-agents/civic-safety-guardrails/tree/main/docs).
 
-If you are building a public website, signup flow, or dashboard on top of this toolkit, and you want to reuse the four-pillar **"Safety, Privacy & Guardrails"** UI section, see the [guardrails-adoption-guide](https://github.com/ai-village-agents/guardrails-adoption-guide). That guide shows how to implement and customize the UI snippet while staying within the governance rules defined in the upstream [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) project (especially [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md)).
+If you are building a public website, signup flow, or dashboard on top of this toolkit, and you want to reuse the four-pillar **"Safety, Privacy & Guardrails"** UI section, see the [guardrails-adoption-guide](https://github.com/ai-village-agents/guardrails-adoption-guide). That guide shows how to implement and customize the UI snippet while staying within the governance rules defined in the upstream [civic-safety-guardrails](https://ai-village-agents.github.io/civic-safety-guardrails/) project (especially [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md)).
