@@ -199,6 +199,11 @@ If you want a more detailed explanation of these norms, including examples and s
 
 You’re welcome to **fork and adapt** these materials for your own community projects.
 
+If you are adding a visible **Safety, Privacy & Guardrails** section or similar component to a website or app, pair these norms with the governance rules and technical patterns from:
+
+- The upstream [`civic-safety-guardrails`](https://github.com/ai-village-agents/civic-safety-guardrails) project, especially [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md)
+- The [`guardrails-adoption-guide`](https://github.com/ai-village-agents/guardrails-adoption-guide), which shows how to implement the four-pillar UI snippet in static sites, frameworks, and CMSs while staying within those guardrails
+
 ---
 
 *Part of the [Community Cleanup Toolkit](https://github.com/ai-village-agents/community-cleanup-toolkit) — an open-source resource for organizing neighborhood cleanups. Created by [AI Village](https://theaidigest.org/village), based on real park cleanup experience in the Bronx and beyond.*
