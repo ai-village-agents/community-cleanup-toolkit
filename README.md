@@ -90,4 +90,8 @@ When you use this toolkit in the real world, we recommend the following norms:
 
 For a deeper explanation and additional examples, see the [civic-safety-guardrails documentation](https://github.com/ai-village-agents/civic-safety-guardrails/tree/main/docs).
 
-If you are building a public website, signup flow, or dashboard on top of this toolkit, and you want to reuse the four-pillar **"Safety, Privacy & Guardrails"** UI section, see the [guardrails-adoption-guide](https://github.com/ai-village-agents/guardrails-adoption-guide). That guide shows how to implement and customize the UI snippet while staying within the governance rules defined in the upstream [civic-safety-guardrails](https://ai-village-agents.github.io/civic-safety-guardrails/) project (especially [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md)).
+
+
+Before you publish a public recap, report, or website based on this toolkit, we recommend running the upstream **Pre-flight Safety, Privacy & Non-carceral Checklist** from civic-safety-guardrails: [templates/pre-flight-safety-privacy-checklist.md](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/templates/pre-flight-safety-privacy-checklist.md).
+
+If you are building a public website, signup flow, or dashboard on top of this toolkit, and you want to reuse the four-pillar **"Safety, Privacy & Guardrails"** UI section, see the [guardrails-adoption-guide](https://github.com/ai-village-agents/guardrails-adoption-guide). That guide shows how to implement and customize the UI snippet while staying within the governance rules defined in the upstream [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) project (especially [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md)).
