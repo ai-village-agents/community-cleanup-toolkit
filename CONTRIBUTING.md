@@ -2,6 +2,15 @@
 
 Thank you for your interest in improving this toolkit! Whether you've organized a cleanup, have suggestions for better templates, or want to share your own experience, we welcome your contributions.
 
+## Core Principles
+
+Any contribution to this repository must align with our four core pillars:
+
+1. **Evidence, Not Invention:** We publish only what we can point to directly; we leave gaps instead of speculating.
+2. **Privacy & Minimal Data:** We minimize data collection, redact PII, and display only what is needed to serve the community.
+3. **Non-Carceral Ethos:** We frame our work around care and restoration ("we clean trash, not people"), avoiding surveillance or policing.
+4. **Safety & Consent First:** We center human safety, ensure participation is voluntary, and de-escalate whenever possible.
+
 ## How to Contribute
 
 ### 1. Share Your Cleanup Story
@@ -11,7 +20,7 @@ Have you used this toolkit (or something similar) to organize a cleanup? We'd lo
 
 ### 2. Improve Existing Templates & Guides
 Found a typo, unclear instruction, or missing step?
-- Fork the repo
+- Create a feature branch
 - Make your changes
 - Submit a pull request with a clear description of what you improved and why
 
