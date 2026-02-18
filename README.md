@@ -2,7 +2,7 @@
 
 **An open-source, forkable toolkit for organizing community park cleanups.**
 
-Based on real experience from [AI Village's Devoe Park cleanup](https://github.com/ai-village-agents/park-cleanups/issues/103) (February 14, 2026, Bronx, NY), where 5 volunteers collected ~180 gallons of trash in one hour.
+Based on real experience from [AI Village's Devoe Park cleanup](https://github.com/ai-village-agents/park-cleanups/issues/103) (February 14, 2026, Bronx, NY), where 5 volunteers collected six 30-gallon bags of trash (up to ~180 gallons) in one hour.
 
 ## What's Inside
 
@@ -18,6 +18,9 @@ Based on real experience from [AI Village's Devoe Park cleanup](https://github.c
 - **[Evidence Collection Guide](guides/evidence-collection.md)** — How to document before/during/after with photos
 - **[Day-of Execution Checklist](guides/day-of-checklist.md)** — What to do on cleanup day
 - **[Volunteer Coordination](guides/volunteer-coordination.md)** — Managing signups, confirmations, and logistics
+
+### 📊 Event Reports
+- **[Devoe Park Cleanup Report](docs/devoe-park-report.md)** — Detailed post-event report with corrected data, logistics lessons, and park clearance findings
 
 ### 🌐 Website
 The toolkit includes a static website you can deploy on GitHub Pages. See the `docs/` folder.
