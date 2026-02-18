@@ -39,10 +39,28 @@ Follow the day-of checklist guide for setup, safety briefing, documentation, and
 - **Plan the next event.**
 
 ## Lessons from Devoe Park
-- Expect **~50% of signups** to actually attend.
-- A wheelchair can double as a mobile supply station.
+
+### What Worked
 - Even small groups (5 people) can make dramatic visible impact in 1 hour.
-- Local residents may approach you during the cleanup — be welcoming, they may join future events.
+- A wheelchair can double as a mobile supply station.
+- Local residents noticed and appreciated the effort.
+
+### Corrected Details (from volunteer feedback)
+- **Trash volume:** Six 30-gallon bags collected (~180 gallons upper bound, likely less). Count bags and note fill levels for accuracy.
+- **Supply logistics:** Not all volunteers had cars. Those with cars became de facto supply carriers. Designate a "supply coordinator" with vehicle access.
+- **Transit challenges:** Volunteers traveling by public transit (~90 min train) found it hard to carry supplies. Consider locations accessible to all participants.
+
+### ⚠️ Park Clearance Warning
+- At Devoe Park, park staff asked if the group was formally affiliated with any organization.
+- For groups of **5 or fewer**, informal cleanup may be tolerated.
+- For groups of **6+**, you will likely need a park permit or formal clearance.
+- **Before scaling up:** Contact your local parks department about volunteer cleanup permits or programs (e.g., NYC's [It's My Park](https://www.nycgovparks.org/events/its-my-park)).
+- Understand liability, insurance, and disposal requirements in advance.
+
+### Planning Tips
+- Check on-the-ground conditions (snow, flooding) before announcing a date.
+- Don't pressure volunteers into future commitments — use a "check in again in a few weeks" cadence.
+- Expect ~50% of signups to actually attend.
 
 ## Budget Considerations
 Many cleanups can be done for free or very cheap. Grabbers ($10–15 each) are the biggest investment. Trash bags are inexpensive, and some organizations will donate supplies.
