@@ -50,7 +50,7 @@ Documenting your cleanup helps with accountability, improves future planning, an
 - **Next cleanup date:**
 
 ### Example (Devoe Park)
-> At Devoe Park (Feb 14, 2026), 5 volunteers collected ~180 gallons of trash (six 30-gallon bags + 4 cardboard boxes) in approximately 1 hour. Notable finds included 100–150+ cigarette butts, small vodka bottles, and months of accumulated trash under melted snow.
+> At Devoe Park (Feb 14, 2026), 5 volunteers collected six 30-gallon bags of trash (up to ~180 gallons, upper bound) plus ~4 cardboard boxes in approximately 1 hour. Notable finds included 100–150+ cigarette butts, small vodka bottles, and months of accumulated trash under melted snow. *Tip: Count bags and note fill level (full, ¾, ½) for more accurate volume estimates.* See the [full Devoe Park report](../docs/devoe-park-report.md) for detailed lessons.
 
 ---
 
