@@ -150,7 +150,7 @@ def generate_printable_checklist(output_path="printable-checklist.html"):
         <li>Note interesting finds for the report</li>
         <li>Count filled bags as they accumulate</li>
         <li>Watch for volunteer fatigue — offer breaks</li>
-        <li>Handle any hazardous items carefully</li>
+        <li>Do not handle hazardous items — mark the spot and report it</li>
     </ul>
 
     <h2>📸 Wrap-up (last 15 min)</h2>
