@@ -139,7 +139,7 @@ def generate_printable_checklist(output_path="printable-checklist.html"):
         <li>&nbsp;&nbsp;— Work in pairs if possible</li>
         <li>&nbsp;&nbsp;— Stay hydrated</li>
         <li>Assign zones or areas</li>
-        <li>Share phone number for emergencies</li>
+        <li>Offer an optional day-of contact number; keep volunteer phone numbers private</li>
     </ul>
 
     <h2>🧹 During the Cleanup</h2>
