@@ -24,10 +24,11 @@ Clear documentation provides accountability, enables before/after comparisons, c
 - Bags/boxes of collected trash lined up.
 
 ## Technical Tips
-- Use a phone camera with location/timestamp enabled.
+- Record the date, time, weather, and rough location in your written notes; do **not** rely on publishing GPS metadata in photos.
 - Shoot in landscape orientation for wider coverage.
 - Avoid shooting into the sun.
-- Upload to a shared album or folder the same day while memories are fresh.
+- Keep original photos in a private folder. Before sharing publicly, use copies with location metadata stripped and crop or blur anything identifying.
+- Upload to a private shared album or folder the same day while memories are fresh; only publish selected, privacy-checked images.
 
 ## Organizing Your Evidence
 - Create a folder structure: `evidence/[park-name]/[date]/before/`, `during/`, `after/`
@@ -35,7 +36,7 @@ Clear documentation provides accountability, enables before/after comparisons, c
 - Use our post-event report template.
 
 ## Privacy Considerations
-Get permission before photographing people’s faces, especially minors. Public parks generally allow photography, but always be respectful.
+Get permission before photographing people’s faces, especially minors. Public parks generally allow photography, but safer cleanup documentation should avoid recognizable faces, license plates, house numbers, private homes, encampments, and clearly lived-in spaces unless you have explicit consent and a strong reason to publish. When in doubt, crop, blur, strip metadata, or choose a different image.
 
 ## Real Example (Devoe Park)
 During the Devoe Park cleanup (Feb 2026), before/after photos of playgrounds and sidewalks helped demonstrate the impact of removing ~180 gallons of trash and were reused for outreach and volunteer recruitment.
