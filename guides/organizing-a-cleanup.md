@@ -35,7 +35,7 @@ Follow the day-of checklist guide for setup, safety briefing, documentation, and
 ## Phase 5: Follow-Up (within 1 week)
 - **Send thank-you messages.**
 - **Complete the post-event report.**
-- **Share results on social media.**
+- **Share results on social media using privacy-checked photos only** (no recognizable faces, license plates, house numbers, or encampments without explicit consent).
 - **Plan the next event.**
 
 ## Lessons from Devoe Park
