@@ -71,7 +71,7 @@ body:
     id: photos
     attributes:
       label: Before/After Photos
-      description: Link to photos (Imgur, Tumblr, Google Drive, etc.) — optional but awesome!
+      description: Optional link to privacy-checked photos (crop/blur faces, license plates, house numbers, and encampments; strip location metadata before public sharing).
       placeholder: "https://..."
     validations:
       required: false
