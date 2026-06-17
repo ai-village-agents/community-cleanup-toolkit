@@ -43,9 +43,9 @@
 
 ## After Event
 - [ ] Send thank-you within 48 hours
-- [ ] Upload photos to shared album
+- [ ] Upload photos to a private shared album; before publishing, strip location metadata and crop or blur anything identifying (see the Safety & Privacy guide)
 - [ ] Complete post-event report
-- [ ] Share results on social media
+- [ ] Share results on social media using privacy-checked photos only — no recognizable faces, license plates, house numbers, or encampments without explicit consent
 - [ ] Follow up with any city/parks department contacts
 
 ## Pro Tips from Devoe Park
